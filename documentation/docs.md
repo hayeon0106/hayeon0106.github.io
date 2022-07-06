@@ -16,3 +16,5 @@ weight: 5
 {% assign relative_path = doc.path | remove: parent_dir %}
 {% include_relative {{ relative_path }} %}
 {% endfor %}
+
+{% include elements/github-edit-footer.html %}
