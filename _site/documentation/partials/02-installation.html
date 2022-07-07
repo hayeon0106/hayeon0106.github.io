@@ -21,11 +21,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Projects">
+  <meta property="og:title" content="Installation">
   <meta property="og:description" content="무언가의 소개. 소개글을 넣어야 한다. 근데 나는 나를 어떻게 소개해야 할지 모르겠다아...">
   <meta property="og:image" content="https://user-images.githubusercontent.com/84331957/177674606-2ca39c17-97f4-4fd4-bc2d-f6cfeb9acd61.jpg">
 
-  <title>Projects</title>
+  <title>Installation</title>
   <meta name="description" content="무언가의 소개. 소개글을 넣어야 한다. 근데 나는 나를 어떻게 소개해야 할지 모르겠다아...">
 
   <link rel="shortcut icon" type="image/x-icon" href="/portfolYOU/assets/favicon.ico">
@@ -65,7 +65,7 @@
 
       <a class="nav-item nav-link active" href="/portfolYOU/"></a>
 
-      <a class="nav-item nav-link active" href="/portfolYOU/projects/">Projects</a>
+      <a class="nav-item nav-link " href="/portfolYOU/projects/">Projects</a>
 
       <a class="nav-item nav-link " href="/portfolYOU/blog/">Blog</a>
 
@@ -84,17 +84,49 @@
   </div>
 
 </nav>
-    
-<div class="card-columns m-3 mt-5">
+    <div class="col-lg-10 mx-auto mt-5 markdown-body">
+  <h2 id="installation">Installation</h2>
 
-  <!-- Remote Projects -->
-  
+<p>The following steps demonstrate how to use portfolYOU as <strong>GitHub Pages remote theme</strong>.</p>
 
-  <!-- Local Projects -->
-  
+<ol>
+  <li><a href="https://github.com/YoussefRaafatNasry/portfolYOU/zipball/gh-pages">Download</a> portfolYOU as .zip from official <a href="https://github.com/YoussefRaafatNasry/portfolYOU">repo</a> then extract it.</li>
+  <li>Rename <strong><code class="language-plaintext highlighter-rouge">portfolYOU-master/</code></strong> to <strong><code class="language-plaintext highlighter-rouge">&lt;your-username&gt;.github.io/</code></strong></li>
+  <li>Remove everything <strong>except</strong> the <strong><code class="language-plaintext highlighter-rouge">docs/</code></strong> directory.</li>
+  <li>Lift up the <strong><code class="language-plaintext highlighter-rouge">docs/</code></strong> directory’s content to the root directory <em>(i.e move them to <strong><code class="language-plaintext highlighter-rouge">&lt;your-username&gt;.github.io/</code></strong>)</em>.</li>
+  <li>Remove <strong>documentation</strong> stuff:
+    <ul>
+      <li><strong><code class="language-plaintext highlighter-rouge">_elements/</code></strong></li>
+      <li><strong><code class="language-plaintext highlighter-rouge">documentation/</code></strong></li>
+      <li><strong><code class="language-plaintext highlighter-rouge">_config.yml</code></strong> : any line commented as <code class="language-plaintext highlighter-rouge"># For Documentation Only</code></li>
+    </ul>
+  </li>
+  <li>
+    <p>Your directory structure should be:</p>
+
+    <pre><code class="language-tree"> &lt;your-username&gt;.github.io/
+ ├── _data/
+ ├── _posts/
+ ├── _projects/
+ ├── pages/
+ ├── _config.yml
+ ├── .gitignore
+ └── Gemfile
+</code></pre>
+  </li>
+  <li>Update <strong><code class="language-plaintext highlighter-rouge">_config.yml</code></strong> with your data <em>(follow the comments for more help)</em>.</li>
+  <li>Update your site content (posts, projects and about page).</li>
+  <li>Finally, test portfolYOU <a href="https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/">locally</a> then <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">publish</a> it to <a href="https://pages.github.com/">GitHub Pages</a>.</li>
+  <li>
+    <p><em>[Optional]</em> To use a specific <a href="https://github.com/YoussefRaafatNasry/portfolYOU/releases">version</a> of portfolYOU <em>(defaults to latest version)</em>:</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="na">remote_theme</span><span class="pi">:</span> <span class="s">YoussefRaafatNasry/portfolYOU@v1.0.0</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
 
 </div>
-
   </main>
   <footer class="mt-auto py-3 text-center">
 

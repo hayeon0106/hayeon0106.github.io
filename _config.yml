@@ -4,9 +4,9 @@ description         : >-
                       무언가의 소개.
                       소개글을 넣어야 한다. 근데 나는
                       나를 어떻게 소개해야 할지 모르겠다아...
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : 
+baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -26,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : HA
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://user-images.githubusercontent.com/84331957/177674606-2ca39c17-97f4-4fd4-bc2d-f6cfeb9acd61.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : hayeonkim0106@gmail.com
