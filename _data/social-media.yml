@@ -1,6 +1,8 @@
 # Get Icons  from : https://fontawesome.com/icons
 # Get Colors from : https://brandcolors.net/
 
+# 현재 github, email만 사용
+
 behance:
   url   : https://www.behance.net/
   icon  : fab fa-behance
@@ -12,7 +14,7 @@ dribbble:
   color : 444444
 
 email:
-  url   : "mailto:"
+  url   : "mailto:hayeonkim0106@gmail.com"
   icon  : fas fa-envelope
   color : db4437
 
@@ -22,7 +24,7 @@ facebook:
   color : 3b5998
 
 github:
-  url   : https://www.github.com/
+  url   : https://github.com/hayeon0106
   icon  : fab fa-github
   color : 333333
 
