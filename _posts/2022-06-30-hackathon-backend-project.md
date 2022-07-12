@@ -1,6 +1,6 @@
 ---
 title: Django 백엔드 오류 처리
-tags: [Django, 백엔드, 해커톤]
+tags: [django, backend, hackathon]
 style: fill
 color: warning
 description: 해커톤 누구냐 넌 프로젝트 백엔드

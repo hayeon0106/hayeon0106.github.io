@@ -6,6 +6,6 @@
   percentage: 60
   color:
 
-- name: 리눅스&하둡
+- name: Linux&Hadoop
   percentage: 50
   color: secondary
