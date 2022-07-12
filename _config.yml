@@ -20,16 +20,16 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-#  - documentation/partials/**                           # For Documentation Only
+  - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
-  name              : HA
+  name              : 김하연
   image             : https://user-images.githubusercontent.com/84331957/177674606-2ca39c17-97f4-4fd4-bc2d-f6cfeb9acd61.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : your_username@gmail.com
+  email             : 
 #  facebook          : your_username
   github            : 
 # gitlab            : your_username
@@ -90,11 +90,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-#  - scope:                                              # For Documentation Only
-#      path: ""                                          # For Documentation Only
-#      type: "elements"                                  # For Documentation Only
-#    values:                                             # For Documentation Only
-#      layout: "element"                                 # For Documentation Only
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
