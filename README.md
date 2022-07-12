@@ -2,4 +2,4 @@
 
 jekyll 테마를 사용하여 제작한 포트폴리오
 
-[HA Protfolio](https://hayeon0106.github.io/)
+[HA Portfolio](https://hayeon0106.github.io/)
