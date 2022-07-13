@@ -10,36 +10,71 @@ description: 학원에서 진행한 스터디📚 - 회귀분석
 
 ppt만 보고도 복습하거나 공부할 수 있도록 신경쓰며 만들었다.
 
-![회귀분석 스터디_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/552db382-5f6c-47f9-a107-ea7f0058fb6f/회귀분석_스터디_1.png)
+![회귀분석 스터디_1](https://user-images.githubusercontent.com/84331957/178693772-1a5fa74a-9e5c-40ab-a286-e91c6cd01468.png)
 
-![회귀분석 스터디_2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4034541b-6624-4f73-81ef-e3734de84c59/회귀분석_스터디_2.png)
+<br>
 
-![회귀분석 스터디_3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/07d5633b-40b7-4751-9eee-7729bb12e32b/회귀분석_스터디_3.png)
+![회귀분석 스터디_2](https://user-images.githubusercontent.com/84331957/178693789-8ac770a6-b7b5-438e-8cbb-9ff044308053.png)
 
-![회귀분석 스터디_4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4353a5e5-35b8-4ef6-9c6f-e51eb3d34e5b/회귀분석_스터디_4.png)
+<br>
 
-![회귀분석 스터디_5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28ac8f8d-f0b3-4fcd-b407-70f2ec7654ce/회귀분석_스터디_5.png)
+![회귀분석 스터디_3](https://user-images.githubusercontent.com/84331957/178693812-e6de2bec-efd5-4b6c-9b0f-37315f195400.png)
 
-![회귀분석 스터디_6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f954c82-cd56-47cf-8667-4ca5c2e0123a/회귀분석_스터디_6.png)
+<br>
 
-![회귀분석 스터디_7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ee3cc08-72cc-4769-bb6e-474a8e6c58b8/회귀분석_스터디_7.png)
+![회귀분석 스터디_4](https://user-images.githubusercontent.com/84331957/178693828-fe77507d-1b06-4866-8075-b0ecc835bd4a.png)
 
-![회귀분석 스터디_8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f43fdbe1-1dcb-4694-88f1-1a04b3765264/회귀분석_스터디_8.png)
+<br>
 
-![회귀분석 스터디_9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ebe4451-ea0c-456f-ab94-a7cfc8333080/회귀분석_스터디_9.png)
+![회귀분석 스터디_5](https://user-images.githubusercontent.com/84331957/178693840-11770900-c5e6-48b7-98ce-ecdddabec960.png)
 
-![회귀분석 스터디_10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dbe5e04-fc1a-4896-867f-c193aee28404/회귀분석_스터디_10.png)
+<br>
 
-![회귀분석 스터디_11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79df3f34-cceb-4276-8555-f495ec15ec5a/회귀분석_스터디_11.png)
+![회귀분석 스터디_6](https://user-images.githubusercontent.com/84331957/178693852-8c859f2d-763e-4396-97a2-81e58117000f.png)
 
-![회귀분석 스터디_12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71551a0d-bc8f-4e1b-9057-c7e1f4408d96/회귀분석_스터디_12.png)
+<br>
 
-![회귀분석 스터디_13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b2094a2-df27-431b-bf0e-9646ba426d79/회귀분석_스터디_13.png)
+![회귀분석 스터디_7](https://user-images.githubusercontent.com/84331957/178693861-c08976a5-23f6-4ac9-8119-0c97357ee425.png)
 
-![회귀분석 스터디_14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94f35025-d562-405d-a16d-2882e8b7942b/회귀분석_스터디_14.png)
+<br>
 
-![회귀분석 스터디_15.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6529b78d-0553-4a34-8ed6-6e09c839efd7/회귀분석_스터디_15.png)
+![회귀분석 스터디_8](https://user-images.githubusercontent.com/84331957/178693875-03147687-e3fd-4182-8715-5c7fce80e33b.png)
 
-![회귀분석 스터디_16.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64cecb8f-4de5-4ac6-86d5-9a645836879f/회귀분석_스터디_16.png)
+<br>
 
-![회귀분석 스터디_17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57161b78-94d5-45fd-a1b8-c68b9b9e8417/회귀분석_스터디_17.png)
+![회귀분석 스터디_9](https://user-images.githubusercontent.com/84331957/178693888-744cbb37-5147-4d0b-b99b-a8b9d5bd6bd5.png)
+
+<br>
+
+![회귀분석 스터디_10](https://user-images.githubusercontent.com/84331957/178693901-5b9409d9-9ad3-4cf1-82d4-d15e6f80fd6e.png)
+
+<br>
+
+![회귀분석 스터디_11](https://user-images.githubusercontent.com/84331957/178693913-6f32dfaf-0375-497f-8d5a-38a640711ca9.png)
+
+<br>
+
+![회귀분석 스터디_12](https://user-images.githubusercontent.com/84331957/178693925-1394b064-949e-4c58-a63a-1fd282b35b4b.png)
+
+<br>
+
+![회귀분석 스터디_13](https://user-images.githubusercontent.com/84331957/178693930-a0238827-92df-44d2-9858-0fec77aed8d8.png)
+
+<br>
+
+![회귀분석 스터디_14](https://user-images.githubusercontent.com/84331957/178693946-06ed8087-42dc-464f-891b-ee0dea704fff.png)
+
+<br>
+
+![회귀분석 스터디_15](https://user-images.githubusercontent.com/84331957/178693955-797d2126-917b-4390-946f-36f090835a25.png)
+
+<br>
+
+![회귀분석 스터디_16](https://user-images.githubusercontent.com/84331957/178693976-e704db4a-9024-47ff-8ab1-a6687791d12a.png)
+
+<br>
+
+![회귀분석 스터디_17](https://user-images.githubusercontent.com/84331957/178693990-ccd9bbc5-489e-41ad-bc01-82b5529dc07b.png)
+
+<br>
+
