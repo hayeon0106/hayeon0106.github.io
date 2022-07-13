@@ -5,6 +5,11 @@ image:
 description: 4학년 1학기 AR/VR 강의 기말 개인 프로젝트. Vuforia를 활용하여 개발한 VR 게임이다.
 ---
 
+# **🕶 VR Project**
+
+<br>
+<br>
+
 ### **프로젝트 소개**
 <br>
 
