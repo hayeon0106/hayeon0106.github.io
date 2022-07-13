@@ -1,7 +1,8 @@
 ---
 name: 🗣📱 실시간 통화 음성을 분석하는 보이스피싱 탐지 기술 구현 - 보이스피싱 빈출 단어 분석
 tools: [data analysis, python]
-image: 
+image: https://user-images.githubusercontent.com/84331957/178724381-c4ddcf78-072a-45a1-893f-469ab3d4d140.jpg
+
 description: 실시간 통화 음성으로 보이스피싱 탐지 기술을 구현하기 위해 보이스피싱 빈출 단어를 분석한 프로젝트이다.
 ---
 
