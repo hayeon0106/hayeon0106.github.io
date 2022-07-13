@@ -1,5 +1,5 @@
 ---
-name: 실시간 통화 음성을 분석하는 보이스피싱 탐지 기술 구현🗣📱 - 보이스피싱 빈출 단어 분석
+name: 🗣📱 실시간 통화 음성을 분석하는 보이스피싱 탐지 기술 구현 - 보이스피싱 빈출 단어 분석
 tools: [data analysis, python]
 image:
 description: 실시간 통화 음성으로 보이스피싱 탐지 기술을 구현하기 위해 보이스피싱 빈출 단어를 분석한 프로젝트이다.
@@ -7,13 +7,13 @@ description: 실시간 통화 음성으로 보이스피싱 탐지 기술을 구�
 
 # 서론
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1640957d-5bef-4e9f-96a3-98f5f3517c62/Untitled.png)
+![image](https://user-images.githubusercontent.com/84331957/178653224-8c1a8089-7179-428c-a78c-906c0d6d9918.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d37aa28-3a43-408e-b63d-ed31edce21b9/Untitled.png)
+![image](https://user-images.githubusercontent.com/84331957/178653263-7c318920-5d20-48d9-b31c-8484aeda15f4.png)
 
 **보이스피싱 발생 건수**를 보면, 우리나라는 **2018년부터 매해 3만 건이 넘는 보이스피싱 범죄가 발생**하고 있다. 2019년에 정점을 찍고 감소하는 추세로 보이지만, 이는 COVID-19 출현 이후 전 세계 봉쇄 등의 이유로 보이스피싱 범죄보다 스미싱 범죄가 늘어났기 때문이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d55b37d-0a2f-4d8b-b221-2fe598263fbc/Untitled.png)
+![image](https://user-images.githubusercontent.com/84331957/178653267-71464912-ad9e-4a45-a9c7-d1a5b29a556e.png)
 
 보이스피싱 유형은 크게 *기관사칭형* 과 *대출사기형* 두 분류로 나눌 수 있는데, 위 **그래프**를 보면, 파란색 실선인 *기관사칭형* 발생 건수는 2019년 7,219건에서 2020년 7,844건으로 625건 증가했지만, 피해액은 2,506억 원에서 2,144억 원으로 362억 원이 감소했다.
 
@@ -21,7 +21,7 @@ description: 실시간 통화 음성으로 보이스피싱 탐지 기술을 구�
 
 **발생 건수가 줄어들었음에도 불구하고 피해액은 오히려 증가한 것**인데, 이 역시 COVID-19의 영향으로 인해 대출을 희망하는 개인 혹은 법인이 자연스레 *대출사기형* 보이스피싱에 조금 더 손쉽게 노출된 것으로 여겨진다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a28fe788-3979-4da3-9c14-b383eb82a196/Untitled.png)
+![image](https://user-images.githubusercontent.com/84331957/178653269-e5b47657-de3c-4aeb-bc85-3921b9d91476.png)
 
 **보이스피싱 발생 건수와 검거 건수 그래프** 역시 보이스피싱 범죄 유형에서 가장 큰 비중을 차지하는 *기관사칭형* 과 *대출사기형* 두가지를 놓고 비교해보면, 2020년 *대출사기형* 검거건수는 발생건수보다 월등히 높지만, ***기관사칭형* 검거건수는 발생건수보다 현저히 낮다.**
 
