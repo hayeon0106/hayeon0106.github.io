@@ -1,7 +1,7 @@
 ---
 name: 🐕🐈 개, 고양이 음성 분류
 tools: [machine learning, python, sound classification]
-image: 
+image: https://user-images.githubusercontent.com/84331957/178697110-f45d19bb-0615-44b3-aad6-15dcfea72887.jpg
 description: 개와 고양이의 음성 파일을 입력하면 개인지 고양이인지 분류하는 머신러닝 모델입니다.
 ---
 

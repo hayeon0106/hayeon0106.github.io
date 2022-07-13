@@ -1,7 +1,7 @@
 ---
 name: 🃏 Solitaire
 tools: [C#, Unity, game]
-image:
+image: https://user-images.githubusercontent.com/84331957/178696757-d9f41e36-33c0-417a-8163-f6f57b72b62f.jpg
 description: 3학년 2학기 게임 프로그래밍 기말 개인 프로젝트. 솔리테어 게임을 모작한 프로젝트이다.
 ---
   

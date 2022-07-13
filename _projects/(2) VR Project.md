@@ -1,7 +1,7 @@
 ---
 name: 🕶 VR Project
 tools: [C#, Unity, game, VR]
-image:
+image: https://user-images.githubusercontent.com/84331957/178696131-bc487694-242f-40d3-9e20-6a8a1f289215.jpg
 description: 4학년 1학기 AR/VR 강의 기말 개인 프로젝트. Vuforia를 활용하여 개발한 VR 게임이다.
 ---
 

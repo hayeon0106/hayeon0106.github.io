@@ -1,7 +1,7 @@
 ---
 name: 🗣📱 k-ditital training 해커톤 - 누구냐 넌
 tools: [flutter, django, python, hackathon]
-image:
+image: https://user-images.githubusercontent.com/84331957/178720925-9c8d1351-6fe6-4a90-86c2-3915a9c244ea.png
 description: 보이스피싱 통화 내용을 음성을 분석하여 얻은 보이스피싱 빈출 단어 데이터베이스를 활용하여 보이스피싱 여부를 판단하는 애플리케이션.
 ---
 
