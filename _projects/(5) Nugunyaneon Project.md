@@ -39,27 +39,6 @@ description: 보이스피싱 통화 내용을 음성을 분석하여 얻은 보�
 > Django 4.0.5  
 
 
-  
-
-# 결과
-
-### 애플리케이션 화면
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/84331957/176482243-6913555e-79b9-4b66-9c01-af4c009807d8.png" width="250"/>
- <img src="https://user-images.githubusercontent.com/84331957/176482326-53c19769-f8fa-41e4-9684-6cd6ab36ce81.png" width="250"/>
- <img src="https://user-images.githubusercontent.com/84331957/176482393-083d80c6-e060-4ff6-bbf1-42ad195465e6.png" width="250"/>
-</p>
-
-  
-
-### 탐지 성능 분석
-
-<p align="center">
- <img src = "https://user-images.githubusercontent.com/84331957/176482612-10574190-819c-46ef-abdb-ac2bf85e9489.png" width="700"/>
-</p>
-
-
 <p class="text-center">
 {% include elements/button.html link="https://github.com/hayeon0106/nugunyaneon.git" text="Github" %}
 </p>

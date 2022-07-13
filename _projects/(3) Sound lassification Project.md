@@ -11,5 +11,5 @@ description: 개와 고양이의 음성 파일을 입력하면 개인지 고양�
 
 
 <p class="text-center">
-{% include elements/button.html link="https://www.notion.so/2a8b208ca4ba48c09b3c3d34d5896deb" text="Learn More" %}
+{% include elements/button.html link="https://www.notion.so/2a8b208ca4ba48c09b3c3d34d5896deb" text="Read More" %}
 </p>
